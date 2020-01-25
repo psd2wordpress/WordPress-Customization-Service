@@ -11,7 +11,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://psdtowp.dev/wordpress-customization/" target="_blank" rel="noreferrer noopener"><img src="https://psdtowp.dev/wp-content/uploads/2019/10/wordpress-customization-service.jpg" alt="" class="wp-image-629"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://psdtowp.dev/wordpress-customization/" target="_blank" rel="noreferrer noopener"><img src="https://psdtowp.dev/wp-content/uploads/2019/10/wordpress-customization-service.jpg" alt="" class="wp-image-629"/></a></figure><br><br>
 
 
 

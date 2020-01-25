@@ -7,7 +7,7 @@
 <p>So, if you are looking for help to customizing your WordPress theme. then you might be looking for a freelancer, but that can not be full fill your requirement. Also, there is always been a gap with previous work reputation. But if you give the work with a highly reputed company with reliable price.</p>
 
 
-<p>At this moment there is many WordPress Customization provider company around the World. <a href="https://psdtowpservice.net/">PSDtoWPService</a>.net one of the best WordPress customization company. Let's check out how they work for their client.</p>
+<p>At this moment there is many WordPress Customization provider company around the World. <a href="https://psdtowp.dev/">PSD to WP Service</a>.net one of the best WordPress customization company. Let's check out how they work for their client.</p>
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-<p><a href="https://psdtowp.dev" target="_blank" rel="noreferrer noopener" aria-label="PSDtoWPService (opens in a new tab)">PSDtoWPService</a>.net's WordPress customization services maintain the idea of a complete webpage. The page serves the user requirements and gives pleasure to the website guests. The WordPress facilities are detailed enough to create an ideal group of looks and functions.</p>
+<p><a href="https://psdtowp.dev" target="_blank" rel="noreferrer noopener" aria-label="PSDtoWPService (opens in a new tab)">PSD to WordPress Service</a>.net's WordPress customization services maintain the idea of a complete webpage. The page serves the user requirements and gives pleasure to the website guests. The WordPress facilities are detailed enough to create an ideal group of looks and functions.</p>
 
 
 <h3> PSDtoWP.dev's WordPress customization and maintenance services:</h3>
